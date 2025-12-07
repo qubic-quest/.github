@@ -4,7 +4,7 @@
 
 ---
 
-![Main Interface](./docs/images/main-interface.png)
+![Main Interface](./main-interface.png)
 
 ## 🌟 Overview
 
