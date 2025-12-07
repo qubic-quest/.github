@@ -2,8 +2,6 @@
 
 ## AI-Powered Blockchain Analytics for the Qubic Network
 
----
-
 ![Main Interface](./main-interface.png)
 
 ## 🌟 Overview
@@ -148,22 +146,6 @@ Try asking Quest:
 │         (RPC + Archive Data)                    │
 └─────────────────────────────────────────────────┘
 ```
-
----
-
-## 🎨 Screenshots
-
-**Main Interface:**
-![Quest Interface](https://via.placeholder.com/800x450?text=Quest+Main+Interface)
-
-**Asset Trading Analysis:**
-![Trading Analysis](https://via.placeholder.com/800x450?text=Trading+Analysis)
-
-**Wallet Portfolio:**
-![Portfolio View](https://via.placeholder.com/800x450?text=Wallet+Portfolio)
-
-**NFT Marketplace:**
-![NFT Gallery](https://via.placeholder.com/800x450?text=NFT+Marketplace)
 
 ---
 
