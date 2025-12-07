@@ -254,19 +254,6 @@ Try asking Quest:
 
 ---
 
-## 📈 Roadmap
-
-- [ ] Multi-chain support
-- [ ] Advanced charting with TradingView
-- [ ] Alert system for price movements
-- [ ] Historical data export (CSV/JSON)
-- [ ] Mobile app
-- [ ] Public API access
-- [ ] Custom dashboard builder
-- [ ] Social features and shared queries
-
----
-
 ## 🤝 Contributing
 
 We welcome contributions from the community! Whether you're fixing bugs, adding features, or improving documentation, your help is appreciated.
@@ -291,9 +278,7 @@ Both Quest App and Quest Pipeline are open source under the MIT License.
 
 - **Quest App:** [github.com/qubic-quest/quest-app](https://github.com/qubic-quest/quest-app)
 - **Quest Pipeline:** [github.com/qubic-quest/quest-pipeline](https://github.com/qubic-quest/quest-pipeline)
-- **Live Demo:** [Coming Soon]
-- **Documentation:** [Coming Soon]
-- **Discord:** [Coming Soon]
+- **Live Demo:** https://qubic-quest-xi.vercel.app/
 
 ---
 
@@ -303,7 +288,6 @@ Join the conversation and get support:
 
 - **GitHub Discussions:** Share ideas and feedback
 - **Issues:** Report bugs and request features
-- **Discord:** Connect with other users and developers
 
 ---
 
@@ -314,9 +298,7 @@ Built with ❤️ for the Qubic community.
 Special thanks to:
 
 - The Qubic core team for building an amazing blockchain
-- OpenAI for powering the AI capabilities
 - The open-source community for incredible tools and libraries
-- All contributors and testers who helped shape Quest
 
 ---
 
