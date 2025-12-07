@@ -4,6 +4,8 @@
 
 ---
 
+![Main Interface](./docs/images/main-interface.png)
+
 ## 🌟 Overview
 
 Qubic Quest is an intelligent blockchain exploration platform that makes querying the Qubic blockchain as simple as having a conversation. Built with cutting-edge AI technology, Quest transforms complex blockchain data into accessible insights through natural language queries.
